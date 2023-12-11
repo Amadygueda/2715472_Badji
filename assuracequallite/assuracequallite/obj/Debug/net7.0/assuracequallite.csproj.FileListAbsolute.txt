@@ -1,0 +1,15 @@
+/Users/amadybadji/Desktop/assuracequallite/assuracequallite/bin/Debug/net7.0/assuracequallite
+/Users/amadybadji/Desktop/assuracequallite/assuracequallite/bin/Debug/net7.0/assuracequallite.deps.json
+/Users/amadybadji/Desktop/assuracequallite/assuracequallite/bin/Debug/net7.0/assuracequallite.runtimeconfig.json
+/Users/amadybadji/Desktop/assuracequallite/assuracequallite/bin/Debug/net7.0/assuracequallite.dll
+/Users/amadybadji/Desktop/assuracequallite/assuracequallite/bin/Debug/net7.0/assuracequallite.pdb
+/Users/amadybadji/Desktop/assuracequallite/assuracequallite/obj/Debug/net7.0/assuracequallite.csproj.AssemblyReference.cache
+/Users/amadybadji/Desktop/assuracequallite/assuracequallite/obj/Debug/net7.0/assuracequallite.GeneratedMSBuildEditorConfig.editorconfig
+/Users/amadybadji/Desktop/assuracequallite/assuracequallite/obj/Debug/net7.0/assuracequallite.AssemblyInfoInputs.cache
+/Users/amadybadji/Desktop/assuracequallite/assuracequallite/obj/Debug/net7.0/assuracequallite.AssemblyInfo.cs
+/Users/amadybadji/Desktop/assuracequallite/assuracequallite/obj/Debug/net7.0/assuracequallite.csproj.CoreCompileInputs.cache
+/Users/amadybadji/Desktop/assuracequallite/assuracequallite/obj/Debug/net7.0/assuracequallite.dll
+/Users/amadybadji/Desktop/assuracequallite/assuracequallite/obj/Debug/net7.0/refint/assuracequallite.dll
+/Users/amadybadji/Desktop/assuracequallite/assuracequallite/obj/Debug/net7.0/assuracequallite.pdb
+/Users/amadybadji/Desktop/assuracequallite/assuracequallite/obj/Debug/net7.0/assuracequallite.genruntimeconfig.cache
+/Users/amadybadji/Desktop/assuracequallite/assuracequallite/obj/Debug/net7.0/ref/assuracequallite.dll
