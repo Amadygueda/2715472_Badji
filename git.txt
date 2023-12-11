@@ -1,0 +1,16 @@
+	Git :
+C'est un système de contrôle de version décentralisé.
+Il permet aux développeurs de suivre et de gérer les modifications apportées au code source ou à d'autres types de fichiers sur leur ordinateur local.
+Avec Git, chaque développeur a une copie complète du dépôt, y compris son historique, ce qui permet de travailler hors ligne et de fusionner les modifications avec d'autres.
+Git est essentiel pour coordonner le travail entre plusieurs développeurs, car il aide à résoudre les conflits lorsque des modifications divergentes sont apportées au même fichier.
+	GitHub :
+C'est une plateforme d'hébergement pour les dépôts Git qui facilite la collaboration entre développeurs.
+Elle offre des fonctionnalités telles que le suivi des problèmes, les demandes de tirage (pull requests), et une interface web pour visualiser et gérer les dépôts Git.
+GitHub permet aux développeurs de partager leur code avec d'autres, de collaborer sur des projets et de contribuer à des projets open source.
+Il est largement utilisé pour stocker des dépôts, documenter des projets et faciliter la communication entre les contributeurs.
+
+
+
+
+
+
